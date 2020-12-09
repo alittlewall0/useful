@@ -7,3 +7,7 @@ channels:
   - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
   - defaults
 show_channel_urls: true
+
+CUDA
+https://www.nvidia.com/en-us/geforce/drivers/
+https://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cuda_10.2.89_440.33.01_linux.run
