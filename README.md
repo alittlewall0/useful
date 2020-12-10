@@ -30,3 +30,5 @@ http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/pytorch-1.3.1-cu
 https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip
 
 https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip
+
+https://developer.nvidia.com/compute/machine-learning/cudnn/secure/8.0.2.39/10.2_20200724/cudnn-10.2-linux-x64-v8.0.2.39.tgz
