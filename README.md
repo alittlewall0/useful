@@ -28,3 +28,5 @@ https://mirrors.aliyun.com/pypi/packages/80/2a/58f8078744e0408619c63148f7a2e8e48
 http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/pytorch-1.3.1-cuda100py36h53c1284_0.conda
 
 https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip
+
+https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip
