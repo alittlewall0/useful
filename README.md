@@ -24,3 +24,4 @@ https://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cu
 
 
 https://mirrors.aliyun.com/pypi/packages/80/2a/58f8078744e0408619c63148f7a2e8e48cf007e4146b74d4bb67c56d161b/torch-1.7.0-cp36-cp36m-manylinux1_x86_64.whl 
+http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/pytorch-1.3.1-cuda100py36h53c1284_0.conda
