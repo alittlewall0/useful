@@ -21,3 +21,6 @@ https://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cu
 线性方法或基于模型的方法,设计一套激光雷达与里程计外参的标定方法,并回答以下问题:
 (1)你设计的方法是否存在某些假设?基于这些假设下的标定观测值和预测值分别是什么?
 (2)如何构建你的最小二乘方程组求解该外参?
+
+
+https://mirrors.aliyun.com/pypi/packages/80/2a/58f8078744e0408619c63148f7a2e8e48cf007e4146b74d4bb67c56d161b/torch-1.7.0-cp36-cp36m-manylinux1_x86_64.whl 
