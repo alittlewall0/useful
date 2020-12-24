@@ -26,3 +26,4 @@ https://developer.nvidia.com/compute/machine-learning/cudnn/secure/8.0.2.39/10.2
 
 
 deep learning for image and point cloud  in autonomous
+https://software-download.microsoft.com/sg/Win8.1_Chinese(Simplified)_x64.iso?t=c1a76927-9873-476b-96fd-1a754d0eae49&e=1608887209&h=d5acaa32e3e4edfb00238b56f10e1c94
