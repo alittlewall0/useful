@@ -42,3 +42,7 @@ https://docs.nvidia.com/jetson/l4t-multimedia/l4t_mm_v4l2_cam_cuda_group.html
 https://blog.csdn.net/qq_39201531/article/details/108362042
 
 
+https://yongqi.blog.csdn.net/article/details/108898577
+
+
+
