@@ -34,6 +34,8 @@ https://www.ptc.com/cn/products/creo/trial/free-trial-sign-up?email=shiqiang%40z
 https://docs.nvidia.com/jetson/l4t-multimedia/mmapi_build.html
 
 
+https://blog.csdn.net/heyijia0327/article/details/82855443#t19
+
 https://www.corvin.cn/651.html
 
 https://docs.nvidia.com/jetson/l4t-multimedia/l4t_mm_v4l2_cam_cuda_group.html
