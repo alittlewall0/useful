@@ -53,4 +53,5 @@ https://drive.google.com/u/0/uc?export=download&confirm=2-bt&id=1lcUUxF8mJgZ_e-t
 https://zhuanlan.zhihu.com/p/124958578
 
 
+--2021-03-01 16:47:50--  http://carla-assets.s3.amazonaws.com/20201222_232b876.tar.gz
 
